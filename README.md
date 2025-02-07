@@ -4,7 +4,7 @@
 A simple Django-based webshop where users can browse products, see prices, and add items to a cart. Built using **Django, Python, SQLite, and Bootstrap**.
 
 ## 📸 Screenshot
-![PyShop Screenshot](pyshop.jpg)
+![PyShop Screenshot](https://raw.githubusercontent.com/Pouria-Samadi/Python-Webshop-Django/main/pyshop.jpg)
 
 ## 🚀 Features
 - 🛒 Browse products with images and prices
